@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "878156622733",
+    "firebase_url": "https://hellonature-app-10e77.firebaseio.com",
+    "project_id": "hellonature-app-10e77",
+    "storage_bucket": "hellonature-app-10e77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878156622733:android:c98af698aee67b3e",
+        "android_client_info": {
+          "package_name": "net.hellonature"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878156622733-sncc0i8875p6lhe5td5ocqh65s5dojb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk4F-m2d7sCG1rXOPWFaJBe2-1MjiFs0s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

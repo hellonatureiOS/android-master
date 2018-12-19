@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">헬로네이처</string>
+    <string name="app_scheme">hellonature</string>
+    <string name="app_host">deep</string>
+    <string name="app_query_param">link</string>
+    <string name="app_splash">Splash</string>
+
+    <string name="rationale_title">Permission required</string>
+    <string name="rationale_message">we need permission for read <b>contact</b> and find your <b>location</b></string>
+    <string name="notification_error_ssl_cert_invalid">hellonature.net(안전하지 않음)(으)로 이동</string>
+    <string name="title_activity_settings">Settings</string>
+</resources>

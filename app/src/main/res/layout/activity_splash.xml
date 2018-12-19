@@ -1,0 +1,33 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/splash_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary" >
+
+    <FrameLayout
+        android:id="@+id/bannerframe"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="invisible">
+        <WebView
+            android:id="@+id/bannerview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:foregroundGravity="center" />
+    </FrameLayout>
+
+    <RelativeLayout
+        android:id="@+id/splashframe"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center">
+        <ImageView
+            android:id="@+id/splash_view"
+            android:layout_width="250dp"
+            android:layout_height="80dp"
+            android:scaleType = "centerCrop"
+            android:background="@drawable/testlogo2"
+            android:contentDescription="@string/app_splash"/>
+    </RelativeLayout>
+
+</RelativeLayout>
